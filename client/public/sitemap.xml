@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://truelevy.in/</loc>
+    <lastmod>2025-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://truelevy.in/favicon.png</image:loc>
+      <image:title>True Levy Logo</image:title>
+      <image:caption>True Levy - Professional Financial Consulting Services</image:caption>
+    </image:image>
+  </url>
+</urlset>
