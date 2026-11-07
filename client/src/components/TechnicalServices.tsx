@@ -19,7 +19,7 @@ export default function TechnicalServices() {
           
           <div className="mt-8">
             <a 
-              href="https://newlinelabs.tech/" 
+              href="https://newlinelabs.in/" 
               target="_blank" 
               rel="noopener noreferrer"
               data-testid="link-technical-services"
